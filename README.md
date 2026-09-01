@@ -253,11 +253,6 @@ This project is an independent and deliberately smaller implementation. It focus
 
 If you need a much broader provider database or more advanced whitelist/blacklist management, postwhite is worth considering.
 
-## License
-
-Choose a license before publishing the repository.
-
-The MIT License is a good option for a small administrative utility intended to be freely reused and modified.
 
 ## Disclaimer
 
