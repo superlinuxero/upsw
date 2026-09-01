@@ -2,6 +2,9 @@
 #
 # update_postscreen_whitelist.sh
 #
+# This is free and unencumbered software released into the public domain.
+# See the LICENSE file for details.
+#
 # Generates /etc/postfix/postscreen_whitelist.cidr containing the outbound
 # networks of selected major email providers. These networks can then bypass
 # Postscreen tests through postscreen_access_list.
